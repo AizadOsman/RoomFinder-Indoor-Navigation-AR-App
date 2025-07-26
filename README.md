@@ -12,6 +12,6 @@ This repository contains my Final Year Project called RoomFinder. It is an Andro
 <li>Features: User authentication | Augmented Reality guidance to the lecturer’s room |  User manual and guides</li>
 
 <h1>Interfaces</h1>
-<img width="1080" height="1920" alt="welcomescreen" src="https://github.com/user-attachments/assets/5aad4d9f-19e3-46c8-b222-f0c77487f72a" />
+<img width="720" height="1280" alt="welcomescreen" src="https://github.com/user-attachments/assets/5aad4d9f-19e3-46c8-b222-f0c77487f72a" />
 
 
