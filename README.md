@@ -14,6 +14,23 @@ This repository contains my Final Year Project called RoomFinder. It is an Andro
 <h1>Interfaces</h1>
 <img width="270px" height="480px" alt="welcomescreen" src="https://github.com/user-attachments/assets/5aad4d9f-19e3-46c8-b222-f0c77487f72a" />
 <img width="270px" height="480px" alt="homescreen" src="https://github.com/user-attachments/assets/e465a2dd-af41-4790-ac92-3c912351147a" />
+<img width="270px" height="480px" alt="manualmenu" src="https://github.com/user-attachments/assets/dc67204b-7570-4db2-a334-cdb1894feadd" />
+<img width="270px" height="480px" alt="apptour" src="https://github.com/user-attachments/assets/6e30da2f-c60c-4d2f-9744-5deba3fd239c" />
+<img width="270px" height="480px" alt="arguide" src="https://github.com/user-attachments/assets/159ce04a-ad41-4328-bef4-a65bca5c0ef4" />
+<img width="270px" height="480" alt="rftips" src="https://github.com/user-attachments/assets/0a304364-f917-459e-a3c9-ae43255a7dfe" />
+<img width="270" height="480" alt="mapscreen" src="https://github.com/user-attachments/assets/7909be54-443b-4bb0-943a-102cff365491" />
+<img width="270" height="480" alt="mapviewer" src="https://github.com/user-attachments/assets/36672d49-dc49-403f-982f-6f1609997a72" />
+<img width="270" height="480" alt="arscreen1" src="https://github.com/user-attachments/assets/05a62f34-d0ab-46a4-bcf4-a5dda2d2b4c9" />
+<img width="270" height="480" alt="arscreen2" src="https://github.com/user-attachments/assets/71450852-5366-417a-ad4c-3f00ed67d2c5" />
+<img width="270" height="480" alt="contact" src="https://github.com/user-attachments/assets/5c5c497a-9860-4014-97b3-17a6f20110eb" />
+<img width="270" height="480" alt="notesscreen" src="https://github.com/user-attachments/assets/6daf9ed4-5cf3-4b56-b571-4cddac1533fe" />
+
+
+
+
+
+
+
 
 
 
