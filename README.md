@@ -28,7 +28,7 @@ This repository contains my Final Year Project called RoomFinder. It is an Andro
 <h1>Reporting and Demonstration</h1>
 The full details about this project can be read <a href="https://docs.google.com/document/d/1yJRVgisVsPg7PpWV7Z0ysEorkMegX5nH2mtsWg-1Y0k/edit?usp=sharing">here</a>. <b>Beware!</b> Any plagiarism of the content from this report is strictly prohibited, but the idea and insights from it can be taken as inspiration for further improvement and enhancement of the project.</b>
 
-Click <a href="https://drive.google.com/file/d/1oD6qOvPF3HiYnEr9sRq6iVGjYweFr3AF/view?usp=sharing">here</a> for the demonstration video.
+<p>Click <a href="https://drive.google.com/file/d/1oD6qOvPF3HiYnEr9sRq6iVGjYweFr3AF/view?usp=sharing">here</a> for the demonstration video.</p>
 
 <h1>References</h1>
 This project was developed guided by a few tutorial videos on YouTube posted by <a href="https://youtube.com/playlist?list=PLOIYTfRd0Ho7iOI_cnUZxXK6KiCFGhU1s&feature=shared">FireDragonStudio</a>, where he clearly demonstrated the steps needed to build such an app. The interfaces, designs and illustrations used on the app were heavily created on Canva since this app can simplify the design process.
