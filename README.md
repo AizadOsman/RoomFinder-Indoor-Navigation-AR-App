@@ -1,5 +1,5 @@
 # RoomFinder---Indoor-Navigation-AR-App
-<img width="500" height="500" alt="icon" src="https://github.com/user-attachments/assets/845656d3-5345-4e79-a06c-655f9d51c402" />
+<img width="500" height="auto" alt="icon" src="https://github.com/user-attachments/assets/845656d3-5345-4e79-a06c-655f9d51c402"/><br/>
 This repository contains my Final Year Project called RoomFinder. It is an Android app that utilizes the AR feature to act as a visual guide for finding lecturers' rooms located at the Faculty Building. This project was heavily developed using the <a href="https://unity.com/">Unity Software</a> (2021.2.3f1) and integrates the <a href="https://cloud.google.com/?_gl=1*e9pub1*_up*MQ..&gclid=9b711fd4fa9e155401eb77505c4a807b&gclsrc=3p.ds&hl=en">Google Cloud Platform API</a> to handle the user registration process.
 
 <h1>Details of the Project</h1>
