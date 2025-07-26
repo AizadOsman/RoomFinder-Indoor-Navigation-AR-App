@@ -10,7 +10,8 @@ This repository contains my Final Year Project called RoomFinder. It is an Andro
 <li>Target User: Students of the College of Computing, Informatics and Mathematics. (UiTM Shah Alam)</li>
 <li>Project Methodology: Mobile Application Development Lifecycle (MADLC).</li>
 <li>Features: User authentication | Augmented Reality guidance to the lecturer’s room |  User manual and guides</li>
-**This app is only usable at the CS2 Faculty Building (FSKM), UiTM Shah Alam. Still, users can download it, but it is best used in the building.
+<br/>
+**This app is only usable at the <b>CS2 Faculty Building (FSKM), UiTM Shah Alam</b>. Still, users can download it, but it is best used at the building.
 
 <h1>Interfaces</h1>
 <img width="270px" height="480px" alt="welcomescreen" src="https://github.com/user-attachments/assets/5aad4d9f-19e3-46c8-b222-f0c77487f72a" />
