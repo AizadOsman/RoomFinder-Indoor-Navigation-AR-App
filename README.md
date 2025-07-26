@@ -13,7 +13,7 @@ This repository contains my Final Year Project called RoomFinder. It is an Andro
 
 <h1>Interfaces</h1>
 <img width="270px" height="480px" alt="welcomescreen" src="https://github.com/user-attachments/assets/5aad4d9f-19e3-46c8-b222-f0c77487f72a" />
-<img width="720px" height="480px" alt="homescreen" src="https://github.com/user-attachments/assets/e465a2dd-af41-4790-ac92-3c912351147a" />
+<img width="270px" height="480px" alt="homescreen" src="https://github.com/user-attachments/assets/e465a2dd-af41-4790-ac92-3c912351147a" />
 
 
 
