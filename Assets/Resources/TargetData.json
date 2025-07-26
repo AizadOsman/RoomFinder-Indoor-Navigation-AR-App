@@ -1,0 +1,1446 @@
+{
+	"TargetList": [
+		{
+			"Name": "Bilik Perbincangan 1 & 2",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -80.98,
+				"y": -1,
+				"z": -24.52
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Natrah",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -66.73,
+				"y": -1,
+				"z": -12.65
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Iqbal",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -65.97,
+				"y": -1,
+				"z": -15.95
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Nor Aziah",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -62.63,
+				"y": -1,
+				"z": -11.05
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Sir Zambri",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -62.46,
+				"y": -1,
+				"z": -14.15
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Huda",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -58.56,
+				"y": -1,
+				"z": -11.45
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Azhar",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -54.66,
+				"y": -1,
+				"z": -9.75
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Miss Wan Athirah",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -54.73,
+				"y": -1,
+				"z": -6.45
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Suzana",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -46.46,
+				"y": -1,
+				"z": -5.81
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Rozianawaty",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -46.83,
+				"y": -1,
+				"z": -2.68
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Ariza",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -42.56,
+				"y": -1,
+				"z": -4.81
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Afdal",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -42.53,
+				"y": -1,
+				"z": -1.08
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Wan Faezah",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -38.36,
+				"y": -1,
+				"z": -3.31
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Fariza Hanis",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -38.63,
+				"y": -1,
+				"z": -0.32
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Syaripah",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -34.56,
+				"y": -1,
+				"z": -1.81
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Azlin",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -26.41,
+				"y": -1,
+				"z": 4.97
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Maslina",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -26.27,
+				"y": -1,
+				"z": 1.26
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Ezzatul",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -21.97,
+				"y": -1,
+				"z": 2.31
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Fauziah",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -18.52,
+				"y": -1,
+				"z": 7.14
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Mudiana",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -18.3,
+				"y": -1,
+				"z": 4.29
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Suriyati",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -6.56,
+				"y": -1,
+				"z": 5.96
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Zatul",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -2.9,
+				"y": -1,
+				"z": 6.18
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Kamalia",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 1.12,
+				"y": -1,
+				"z": -6.43
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Emma",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 1.57,
+				"y": -1,
+				"z": 10.72
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Marina",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 10.3,
+				"y": -1,
+				"z": 11.79
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Anitawati",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 10.62,
+				"y": -1,
+				"z": 6.94
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Jasber",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 14.96,
+				"y": -1,
+				"z": 7.46
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Rogayah",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 14.57,
+				"y": -1,
+				"z": 11.93
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Norisan",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 18.87,
+				"y": -1,
+				"z": 7.55
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Saidatul",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 22.88,
+				"y": -1,
+				"z": 7.7
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Fauziah",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 22.38,
+				"y": -1,
+				"z": 12.2
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Norjan",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 31.2,
+				"y": -1,
+				"z": 6.17	
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Shuzlina",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 34.79,
+				"y": -1,
+				"z": 12.84
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Sofianita",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 35.24,
+				"y": -1,
+				"z": 6.26
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Shamimi",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 38.88,
+				"y": -1,
+				"z": 6.17
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Azliza",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 43.22,
+				"y": -1,
+				"z": 6.01
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "StartPoint",
+			"FloorNumber": 2,
+			"Position": {
+				"x": 5.82,
+				"y": 0,
+				"z": 7.54
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "SecondPoint",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 44.8,
+				"y": -1,
+				"z": 10.4
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "ThirdPoint",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 45.49,
+				"y": -1,
+				"z": 10.18
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Prof. Zaidah",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 43.13,
+				"y": -1,
+				"z": 9.38
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Ruhaila",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 38.79,
+				"y": -1,
+				"z": 9.17
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Norzeatul",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 35.16,
+				"y": -1,
+				"z": 9.23
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Jasni",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 34.79,
+				"y": -1,
+				"z": 12.84
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Ts. Dr. Mohd Zahid",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 31.12,
+				"y": -1,
+				"z": 9.26
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Siti Mariam",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 18.1,
+				"y": -1,
+				"z": 12.1
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Haslizatul",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 18.85,
+				"y": -1,
+				"z": 8.13
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Noraini",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 14.57,
+				"y": -1,
+				"z": -24.52
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Norasiah",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 14.96,
+				"y": -1,
+				"z": 7.46
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Suriyani",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 10.3,
+				"y": -1,
+				"z": 11.79
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Ts. Dr. Saidatul",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 1.57,
+				"y": -1,
+				"z": 10.72
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Marshima",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -2.4,
+				"y": -1,
+				"z": 10.6
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Norshahida",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 1.14,
+				"y": -1,
+				"z": 5.62
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Sir Ridhwan & Sir Taufiq",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -2.88,
+				"y": -1,
+				"z": 5.37
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Izzad",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -18.25,
+				"y": -1,
+				"z": 2.1
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Ali",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -18.52,
+				"y": -1,
+				"z": 7.14
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Sir Azizian",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -21.95,
+				"y": -1,
+				"z": 1.36
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Ts. Dr. Surya",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -26.41,
+				"y": -1,
+				"z": 4.97
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Tajul",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -34.3,
+				"y": -1,
+				"z": 1.7
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Sir Razif",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -34.56,
+				"y": -1,
+				"z": -1.81
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Nor Ashikin",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -38.36,
+				"y": -1,
+				"z": -3.31
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Prof. Ts. Dr. Wan Abdul",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -42.53,
+				"y": -1,
+				"z": -1.08
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Siti Khatijah",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -46.83,
+				"y": -1,
+				"z": -2.68
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Mansir",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -46.44,
+				"y": -1,
+				"z": -6.73
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Azlan Ismail",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -54.73,
+				"y": -1,
+				"z": -6.45
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Nasirah",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -54.64,
+				"y": -1,
+				"z": -10.67
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Tengku Zatul",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -58.54,
+				"y": -1,
+				"z": -12.37
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Nur Atiqah Sia",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -65.96,
+				"y": -1,
+				"z": -16.26
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Ms Hana & Ms Hanin",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -62.44,
+				"y": -1,
+				"z": -15.07
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Norhaslinda",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -62.63,
+				"y": -1,
+				"z": -11.05
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Zainura",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -66.73,
+				"y": -1,
+				"z": -12.65
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Prof Madya Dr Haryani",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -82.1,
+				"y": -1,
+				"z": -23
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bilik Guna Sama",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -80.98,
+				"y": -1,
+				"z": -24.52
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Siti Nur Kamaliah",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 43.13,
+				"y": -1,
+				"z": 9.38
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Rosanita",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 38.79,
+				"y": -1,
+				"z": 9.17
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Siti Arpah",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 35.16,
+				"y": -1,
+				"z": 9.23
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Norzilah",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 34.79,
+				"y": -1,
+				"z": 12.84
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Sir Azizi",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 17.94,
+				"y": -1,
+				"z": 12.08
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Fakariah",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 22.85,
+				"y": -1,
+				"z": 8.69
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Zarina",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 18.84,
+				"y": -1,
+				"z": 8.47
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Prof Madya Dr Yusof",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 14.57,
+				"y": -1,
+				"z": 11.93
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Sir Kamarul",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 14.96,
+				"y": -1,
+				"z": 7.46
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Norkhushaini",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 10.62,
+				"y": -1,
+				"z": 6.94
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Erny",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -2.2,
+				"y": -1,
+				"z": 10.4
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Mohsen",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 1.12,
+				"y": -1,
+				"z": 6.43
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Nor Azimah",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -2.9,
+				"y": -1,
+				"z": 6.18
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Nurshahrily",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -6.56,
+				"y": -1,
+				"z": 5.96
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Ts Dr Razulaimi",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -18.27,
+				"y": -1,
+				"z": 2.99
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Shapina",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -22.7,
+				"y": -1,
+				"z": 5.8
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Zaridah",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -18.52,
+				"y": -1,
+				"z": 7.14
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Kamarul",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -21.97,
+				"y": -1,
+				"z": 2.31
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Farah Aqilah",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -26.27,
+				"y": -1,
+				"z": 1.26
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Yuzi",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -26.41,
+				"y": -1,
+				"z": 4.97
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Noor Hayati",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -38.63,
+				"y": -1,
+				"z": 0.32
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Sharifah",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -38.36,
+				"y": -1,
+				"z": -3.31
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Ahmad Faiz",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -42.56,
+				"y": -1,
+				"z": -4.81
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Afiza",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -46.46,
+				"y": -1,
+				"z": -5.81
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Norizan",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -54.66,
+				"y": -1,
+				"z": -9.75
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Hayati",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -58.56,
+				"y": -1,
+				"z": -11.45
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Mohd Suffian",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -65.97,
+				"y": -1,
+				"z": -15.95
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Sharifalillah",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -58.43,
+				"y": -1,
+				"z": -8.91
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Madam Noor Latiffah",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -62.63,
+				"y": -1,
+				"z": -11.05
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Dr Suzana Ahmad",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -66.73,
+				"y": -1,
+				"z": -12.65
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bilik Rehat",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -80.98,
+				"y": -1,
+				"z": -24.52
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		}
+	]
+}
