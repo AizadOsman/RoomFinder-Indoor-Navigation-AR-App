@@ -32,11 +32,13 @@ This repository contains my Final Year Project called RoomFinder. It is an Andro
 
 <h1>Experience the App By Yourself</h1>
 <b>**REQUIREMENTS**</b>
-<ul>Android phone that supports AR features (Android OS 7.0 and latest).</ul>
-<ul>Unity Software version 2021.2.3f1. *Make sure to use this version (Not the latest or older version) to ensure smooth APK built process.</ul>
+<li>Android phone that supports AR features (Android OS 7.0 and latest).</li>
+<li>Unity Software version 2021.2.3f1. *Make sure to use this version (Not the latest or older version) to ensure smooth APK built process.</li>
 
 <b>**STEPS TO ACCESS</b>
-<ol>Download the folder in this repository. Code > Download Zip</ol>
+<ul>
+  <ol>Download the file in this repository. Code > Download ZIP</ol>
+</ul>
 
 <h1>References</h1>
 This project was developed guided by a few tutorial videos on YouTube posted by <a href="https://youtube.com/playlist?list=PLOIYTfRd0Ho7iOI_cnUZxXK6KiCFGhU1s&feature=shared">FireDragonStudio</a>, where he clearly demonstrated the steps needed to build such an app. The interfaces, designs and illustrations used on the app were heavily created on Canva since this app can simplify the design process.
