@@ -31,16 +31,24 @@ This repository contains my Final Year Project called RoomFinder. It is an Andro
 <p>Click <a href="https://drive.google.com/file/d/1oD6qOvPF3HiYnEr9sRq6iVGjYweFr3AF/view?usp=sharing">here</a> for the demonstration video.</p>
 
 <h1>Experience the App By Yourself</h1>
-<b>**REQUIREMENTS**</b>
+<b>REQUIREMENTS</b>
+<li>A laptop obviously.</li>
 <li>Android phone that supports AR features (Android OS 7.0 and latest).</li>
 <li>Unity Software version 2021.2.3f1. *Make sure to use this version (Not the latest or older version) to ensure smooth APK built process.</li>
+<img width="960" height="540" alt="unityver" src="https://github.com/user-attachments/assets/9686fa05-53f4-4c4d-8340-c9aa147a4e97" />
 <br/>
-<b>**STEPS TO ACCESS</b>
+<br/>
+<b>STEPS TO ACCESS</b>
 <ol>
   <li>Download the file in this repository. Code > Download ZIP</li>
-  <li>Extract the Zip file using <a href="https://www.win-rar.com/start.html?&L=0">WinRAR</a> preferable</li>
+  <li>Extract the Zip file using <a href="https://www.win-rar.com/start.html?&L=0">WinRAR</a>, preferable</li>
   <li>Open Unity Hub > Click Projects > Click Add > Add from disk</li>
-  <li>Navigate to the extracted file.</li>
+  <li>Navigate to the extracted file</li>
+  <li>Open the file</li>
+  <li>Click File > Build Settings > Choose Platform: Android</li>
+  <li>Click Player Settings (Under the Platform section) > On a Player section, navigate to Publishing Settings > Uncheck Custom Keystore</li>
+  <li>On the Build Settings window click Build. *This process may take longer time for first timers. IF unsuccessful, exit Unity and rebuild the APK.</li>
+  <li>ATP, your APK should be generated.</li>
 </ol>
 
 <h1>References</h1>
