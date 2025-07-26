@@ -10,3 +10,7 @@ This repository contains my Final Year Project called RoomFinder. It is an Andro
 <li>Target User: Students of the College of Computing, Informatics and Mathematics. (UiTM Shah Alam)</li>
 <li>Project Methodology: Mobile Application Development Lifecycle (MADLC).</li>
 <li>Features: User authentication | Augmented Reality guidance to the lecturer’s room |  User manual and guides</li>
+
+<h1>Interfaces</h1>
+<p>![photo_2025-07-26_18-26-03](https://github.com/user-attachments/assets/f4bd61e0-ca0b-4d75-9476-780620e07a9a)
+</p>
