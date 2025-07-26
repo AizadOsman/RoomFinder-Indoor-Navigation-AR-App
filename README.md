@@ -26,7 +26,7 @@ This repository contains my Final Year Project called RoomFinder. It is an Andro
 <img width="270" height="480" alt="notesscreen" src="https://github.com/user-attachments/assets/6daf9ed4-5cf3-4b56-b571-4cddac1533fe" />
 
 <h1>Reporting and Demonstration</h1>
-The full details about this project can be read <a href="https://docs.google.com/document/d/1yJRVgisVsPg7PpWV7Z0ysEorkMegX5nH2mtsWg-1Y0k/edit?usp=sharing">here</a>. <b>Beware!</b> Any plagiarism of the content from this report is strictly prohibited, but the idea and insights from it can be taken as inspiration for further improvement and enhancement of the project.
+The full details about this project can be read <a href="https://docs.google.com/document/d/1yJRVgisVsPg7PpWV7Z0ysEorkMegX5nH2mtsWg-1Y0k/edit?usp=sharing">here</a>. <b>Beware!</b> Any plagiarism of the content from this report is strictly prohibited, but the idea and insights from it can be taken as inspiration for further improvement and enhancement of the project.</b>
 
 Click <a href="https://drive.google.com/file/d/1oD6qOvPF3HiYnEr9sRq6iVGjYweFr3AF/view?usp=sharing">here</a> for the demonstration video.
 
